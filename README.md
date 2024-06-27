@@ -7,4 +7,4 @@ The course is held by CUHK(SZ), as a school package course for year-1 undergradu
 
 ---  
 
-I typed all these notes on Obsidian, a platform that supports the markdown format. If you are familiar with markdown, I believe you how to read and interpret these files. You can also use Obsidian or other tools to transfer those .md files into .pdf files. I guess that will aid your reading. 
+I typed all these notes on Obsidian, a platform that supports the markdown format. If you are familiar with markdown, I believe you know how to read and interpret these files. You can also use Obsidian or other tools to transfer those .md files into .tex or .pdf files. I guess that will aid your reading. 
